@@ -1,0 +1,6 @@
+{
+  "name": "Lumio",
+  "description": "The Operating System for Modern Work - intelligent brand management and creative enterprise platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
